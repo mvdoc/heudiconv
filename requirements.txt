@@ -1,4 +1,6 @@
 pydicom
-dcmstack
 rdflib
 nipype
+funcsigs
+configparser
+dcmstack
